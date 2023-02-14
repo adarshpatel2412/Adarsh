@@ -1,3 +1,1 @@
-From master -- I am adding this text to switching the branch.
-add another one.
-adding text from qa.
+adding something new text to dev file
